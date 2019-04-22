@@ -1,0 +1,6 @@
+owner=350135013465128966
+prefix=NG!
+game=Break | NG!play
+stayinchannel=true
+songinstatus=false
+token=NTY4OTgyODIxOTE4NDc0MjQw.XLurLA.TNWq6TYgojOmpdKbd_p7x2fNsjo
