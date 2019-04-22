@@ -1,6 +1,6 @@
-owner=350135013465128966
-prefix=NG!
-game=Break | NG!play
+owner=402459350880223233
+prefix=G
+game=Break | Gplay
 stayinchannel=true
 songinstatus=false
-token=NTY4OTgyODIxOTE4NDc0MjQw.XLurLA.TNWq6TYgojOmpdKbd_p7x2fNsjo
+token=NTY5OTEyNzQ4MzM5ODg4MTI4.XL3mhw.A119a5r0IZDLisBud4tUcVdhUzM
